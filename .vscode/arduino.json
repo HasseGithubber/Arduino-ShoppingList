@@ -1,0 +1,5 @@
+{
+    "port": "COM8",
+    "board": "arduino:avr:uno",
+    "sketch": "sketch_mar04a_H-bygge--html--funktion-class--LCD.ino"
+}
