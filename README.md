@@ -1,5 +1,5 @@
 # Arduino-ShoppingList
-School project for a "Embedded systems" course
+School project
 
 # Arduino components
 - Wifi module ESP-8266
